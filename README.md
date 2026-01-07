@@ -7,6 +7,7 @@ Launched by Let’s Encrypt Certificate Authority, ACME protocol aims to automat
 The key task of ACME is to verify requester’s control over the domain (server) through certain challenge. 
 
 The figure below illustrates the typical HTTP challenge:
+
 ![alt text](path/to/your/image.png)
 
 ### 2. Problem of ACME
