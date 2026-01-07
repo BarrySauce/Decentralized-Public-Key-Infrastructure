@@ -18,10 +18,10 @@ Moreover, the whole Let’s Encrypt project is sponsored mainly by U.S.-based co
 ![centralization](images/centralization.png)
 
 ### 3. Proposed solution: ACME based on blockchain
-Here, we introduce blockchain technologies to make the challenge process more decentralized and transparent.
+Here, we introduce **blockchain technologies** to make the challenge process more **decentralized** and **transparent**.
 
-An EVM-based smart contract is designed to function as Let’s Encrypt CA. It handles domain registration requests, verifies domain ownership challenges, and records domain certification info.
+An **EVM-based smart contract** is designed to function as Let’s Encrypt CA. It handles domain registration requests, verifies domain ownership challenges, and records domain certification info.
 
-Additionally, Chainlink oracle is introduced in the solution to decentralize the system further. 
+Additionally, **Chainlink oracle** is introduced in the solution to decentralize the system further. 
 
 ![design](images/design.png)
