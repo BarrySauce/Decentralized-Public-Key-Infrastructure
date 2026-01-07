@@ -1,4 +1,4 @@
-# Decentralized-Public-Key-Infrastructure #
+# Decentralized Public Key Infrastructure #
 ## Automated Certificate Management Environment (ACME) Based on Blockchain ##
 
 ### 1. What is ACME
@@ -25,6 +25,11 @@ An **EVM-based smart contract** is designed to function as Let’s Encrypt CA. I
 Additionally, **Chainlink oracle** is introduced in the solution to decentralize the system further. 
 
 <img src="./images/design.png" alt="design" width="800"/>
+
+[Summary slides of the project](https://docs.google.com/presentation/d/1gxNX2vuPdBIfc2kgs5ge19j4DT_rVNpm8kgUHHAkEws/edit?usp=sharing)
+
+[Detailed slides of the system design & consideration](https://docs.google.com/presentation/d/19r2J-8IORQFNivCyEdTmVi_kbqb1BZtZZz7iYOtVC6w/edit?usp=sharing)
+
 
 **Design Highlights:**
 ![highlight](images/highlight.png)
