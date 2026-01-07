@@ -24,7 +24,7 @@ An **EVM-based smart contract** is designed to function as Let’s Encrypt CA. I
 
 Additionally, **Chainlink oracle** is introduced in the solution to decentralize the system further. 
 
-<img src="./images/design.png" alt="design" width="500"/>
+<img src="./images/design.png" alt="design" width="800"/>
 
 **Design Highlights:**
 ![highlight](images/highlight.png)
