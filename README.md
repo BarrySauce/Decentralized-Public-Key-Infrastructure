@@ -30,6 +30,8 @@ Additionally, **Chainlink oracle** is introduced in the solution to decentralize
 
 [Detailed slides of the system design & consideration](https://docs.google.com/presentation/d/19r2J-8IORQFNivCyEdTmVi_kbqb1BZtZZz7iYOtVC6w/edit?usp=sharing)
 
+[Reference research paper](https://gomezgaona.github.io/online-cv/assets/pdfs/a_blockchain-based.pdf)
+
 
 **Design Highlights:**
 ![highlight](images/highlight.png)
